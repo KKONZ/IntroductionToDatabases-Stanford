@@ -1,2 +1,3 @@
-*Intro to Databases* Stanford/Coursera
+#*Introduction to Databases* 
+##Stanford/Coursera
 =====
