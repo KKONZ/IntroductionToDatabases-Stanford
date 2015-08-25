@@ -1,2 +1,2 @@
-__Intro to Databases coursera work through Stanford__
+*Intro to Databases* Stanford/Coursera
 =====
